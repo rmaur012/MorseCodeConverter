@@ -5,7 +5,7 @@ A program where it either converts:
   -Morse code --> Text
   
   To be clear:
-  For Text, we mean all letters, numbers, and these symbols: !@$?=+&()-;:',.-/_
+  For Text, we mean all letters, numbers, and these symbols: !@$?=+&()-;:',./_
   
   For morse code, only dots (.) and dashes (-) are allowed.
 
